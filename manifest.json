@@ -1,0 +1,9 @@
+{
+  "name": "StackSplitPro",
+  "version_number": "1.0.0",
+  "description": "Split stacks precisely by typing in the number you want",
+  "website_url": "https://github.com/Bixbite42/StackSplitPro",
+  "dependencies": [
+    "xiaoye97-BepInEx-5.4.5"
+  ]
+}
